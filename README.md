@@ -1,5 +1,8 @@
 ### Hi there 👋
+I see you are looking around my repository :eyes:, In that case, I wish you a safe journey around here :raised_hands:.  
 
+### README is still incomplete :no_good:
+This README is still under amendment and therefore is not anywhere near complete.
 <!--
 **ccxex29/ccxex29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
