@@ -14,7 +14,7 @@
 ![](https://img.shields.io/badge/Language-GNU_Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25&labelColor=3f3f3f)
 ![](https://img.shields.io/badge/Language-C/C++-informational?style=flat&logo=c%2b%2b&logoColor=white&color=00599C&labelColor=3f3f3f)
 ![](https://img.shields.io/badge/Language-Lua-informational?style=flat&logo=lua&logoColor=white&color=2C2D72&labelColor=3f3f3f)  
-![](https://img.shields.io/badge/Library-React.js-informational?style=flat&logo=react&logoColor=white&color=61DAFB&labelColor=3f3f3f)
+![](https://img.shields.io/badge/Library-React & React Native-informational?style=flat&logo=react&logoColor=white&color=61DAFB&labelColor=3f3f3f)
 ### README is still incomplete :no_good:
 Aww man! Just a little bit longer, okay.
 <!--
