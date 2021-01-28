@@ -10,14 +10,16 @@
 </p>
 
 ### Technologies That I Use
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=arch-linux&logoColor=white&color=1793D1&labelColor=3f3f3f)
+![](https://img.shields.io/badge/OS-Arch_Linux-informational?style=flat&logo=arch-linux&logoColor=white&color=1793D1&labelColor=3f3f3f)
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=9933CC&labelColor=3f3f3f)  
-![](https://img.shields.io/badge/Text_Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=019733&labelColor=3f3f3f)
+![](https://img.shields.io/badge/Text_Editor-NeoVim-informational?style=flat&logo=neovim&logoColor=white&color=57A143&labelColor=3f3f3f)
 ![](https://img.shields.io/badge/IDE-Intellij_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=000000&labelColor=3f3f3f)  
 ![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E&labelColor=3f3f3f)
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB&labelColor=3f3f3f)
+![](https://img.shields.io/badge/Language-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=CC342D&labelColor=3f3f3f)
 ![](https://img.shields.io/badge/Language-GNU_Bash%20%2F%20ZShell-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25&labelColor=3f3f3f)
 ![](https://img.shields.io/badge/Language-C/C++-informational?style=flat&logo=c%2b%2b&logoColor=white&color=00599C&labelColor=3f3f3f)
+![](https://img.shields.io/badge/Language-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=239120&labelColor=3f3f3f)  
 ![](https://img.shields.io/badge/Library-React%20%26%20React_Native-informational?style=flat&logo=react&logoColor=white&color=61DAFB&labelColor=3f3f3f)
 ### README is still incomplete :no_good:
 However, I hope this profile is good enough to get to know me. I will update again later. :relaxed:
