@@ -3,7 +3,7 @@
 <hr />
 <br />
 <p>
-  I am an Computer Science student whom is currently learning about Artificial Intelligence. Some of my technical interests are Linux, Web Development, and Mobile Development in general. Other than that, I love spending my time on learning other natural languages, learning some interesting trivias, socializing with friends, listening to dope music, and many more. 
+  I am a Computer Science student whom is currently learning about Artificial Intelligence. Some of my technical interests are Linux, Web Development, and Mobile Development in general. Other than that, I love spending my time on learning natural languages, learning some interesting trivias, socializing with friends, listening to dope music, and many more. 
 </p>
 <p>
   
@@ -21,8 +21,8 @@
 ![](https://img.shields.io/badge/Language-C/C++-informational?style=flat&logo=c%2b%2b&logoColor=white&color=00599C&labelColor=3f3f3f)
 ![](https://img.shields.io/badge/Language-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=239120&labelColor=3f3f3f)  
 ![](https://img.shields.io/badge/Library-React%20%26%20React_Native-informational?style=flat&logo=react&logoColor=white&color=61DAFB&labelColor=3f3f3f)
-### README is still incomplete :no_good:
-However, I hope this profile is good enough to get to know me. I will update again later. :relaxed:
+### That's about it for now... 
+However, I hope this profile is good enough to get to know me. I will update this again later. :relaxed:
 <!--
 **ccxex29/ccxex29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
